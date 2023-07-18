@@ -3,8 +3,8 @@ Wrapper: Offline is an easy-to-use GoAnimate Server Emulator that uses Electron.
 
 [Find more info in the wiki.](https://github.com/Wrapper-Offline/Wrapper-Offline/wiki)
 
-## Running / Installation
-To get Wrapper: Offline on Windows, go to the Releases tab of our GitHub repository and download the latest version. Once it's finished downloading, extract it and run wrapper-offline.exe. It'll start Wrapper: Offline. If you would rather run the source code from the latest commit, you can clone the repository instead and run `npm start` in the root folder.
+## Install
+first, install my version, then extract it, when done, go to start-wrapper.bat, i will show it, you cant use `npm start`, because i added it, when installed, and i will show you my vyond
 
 If you want to import videos and characters from other instances of Wrapper: Offline, open its folder and drag the "_SAVED" and "_ASSETS" folder into the Wrapper: Offline folder. If you have already made any videos or characters, this will not work. Please only import on a new install with no saved characters or videos, or take the folders in Wrapper: Offline out before dragging the old one in. If you want to import character IDs from the original LVM, you can click on CREATE A CHARACTER in the video list, scroll down to "Copy a character", and type in a character ID.
 
